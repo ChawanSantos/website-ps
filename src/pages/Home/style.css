@@ -1,0 +1,32 @@
+.container-topo{
+    height: 200px;
+    width: 95%;
+    margin: 20px auto;
+    border: 1px solid  rgba(0, 0, 0, 0.3);
+    border-radius: 12px;
+}
+
+
+.container-topo img{
+    height: 20vh;
+}
+
+.sobre{
+    padding: 12px;
+}
+
+.sobre h2{
+    font-size: 16px;
+    color: #075AA9;
+}
+
+.sobre h3{
+    font-size: 14px;
+}
+
+
+.conteudo-historia-ps p{
+    
+    padding: 12px;
+    
+}
